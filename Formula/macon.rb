@@ -1,9 +1,9 @@
 class Macon < Formula
   desc "Local CI runner — runs macon.yml pipelines on your Mac"
   homepage "https://github.com/alimusawa313/MacON"
-  url "https://github.com/alimusawa313/MacON/archive/refs/tags/v0.5.0.tar.gz"
-  sha256 "d875df90c80bd80cd0cb372845fc57ad8982240cc2bd8d437edc44edd8cb72c2"
-  version "0.5.0"
+  url "https://github.com/alimusawa313/MacON/archive/refs/tags/v0.6.0.tar.gz"
+  sha256 "b0fe0d6ffe67fb7c2eaa11336b9c92d52d362666803fb2b17f7b2edfc99f8cc9"
+  version "0.6.0"
   license "MIT"
 
   depends_on xcode: ["15.0", :build]
